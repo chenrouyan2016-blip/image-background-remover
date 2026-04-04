@@ -1,7 +1,5 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  // Required for @cloudflare/next-on-pages
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
